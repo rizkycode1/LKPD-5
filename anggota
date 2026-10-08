@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anggota XI RPL 04</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <nav class="navbar">
+        <div class="logo">🐬 XI RPL 04</div>
+
+        <div class="nav-menu">
+            <a href="index.html">Home</a>
+            <a href="profil.html">Profil</a>
+            <a href="anggota.html">Anggota</a>
+            <a href="kontak.html">Kontak</a>
+        </div>
+    </nav>
+
+    <section class="anggota">
+        <h1>Anggota XI RPL 04</h1>
+
+        <div class="anggota-container">
+
+            <div class="anggota-card">
+                <img src="images/anggota1.jpg" alt="Anggota 1">
+                <h2>Nama Anggota 1</h2>
+                <p>XI RPL 04</p>
+            </div>
+
+            <div class="anggota-card">
+                <img src="images/anggota2.jpg" alt="Anggota 2">
+                <h2>Nama Anggota 2</h2>
+                <p>XI RPL 04</p>
+            </div>
+
+            <div class="anggota-card">
+                <img src="images/anggota3.jpg" alt="Anggota 3">
+                <h2>Nama Anggota 3</h2>
+                <p>XI RPL 04</p>
+            </div>
+
+            <div class="anggota-card">
+                <img src="images/anggota4.jpg" alt="Anggota 4">
+                <h2>Nama Anggota 4</h2>
+                <p>XI RPL 04</p>
+            </div>
+
+        </div>
+    </section>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
