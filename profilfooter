@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profil XI RPL 04</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <nav class="navbar">
+        <div class="logo">🐬 XI RPL 04</div>
+
+        <div class="nav-menu">
+            <a href="index.html">Home</a>
+            <a href="profil.html">Profil</a>
+            <a href="anggota.html">Anggota</a>
+            <a href="kontak.html">Kontak</a>
+        </div>
+    </nav>
+
+    <section class="profil">
+        <h1>Profil Kelas XI RPL 04</h1>
+
+        <div class="profil-card">
+            <h2>Nama Kelas</h2>
+            <p>XI RPL 04</p>
+
+            <h2>Wali Kelas</h2>
+            <p>Nama Wali Kelas</p>
+
+            <h2>Visi</h2>
+            <p>
+                Menjadi kelas yang kompak, disiplin,
+                kreatif, dan berprestasi.
+            </p>
+
+            <h2>Misi</h2>
+            <ul>
+                <li>Meningkatkan kedisiplinan siswa.</li>
+                <li>Meningkatkan kerja sama.</li>
+                <li>Mengembangkan kemampuan teknologi.</li>
+                <li>Menciptakan lingkungan belajar yang nyaman.</li>
+            </ul>
+
+            <h2>Foto Kelas</h2>
+
+            <img src="images/foto-kelas.jpg"
+                 alt="Foto Kelas XI RPL 04"
+                 class="foto-kelas">
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        <p>&copy; 2026 XI RPL 04 - SMKN 1 Garut</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
